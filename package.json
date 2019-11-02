@@ -4,7 +4,7 @@
     "dev": "nuxt"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "nuxt": "^2.1.0",
     "pug-plain-loader": "^1.0.0",
     "stylus-loader": "^3.0.2"
